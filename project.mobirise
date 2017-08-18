@@ -4933,7 +4933,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SENDEN</a>",
-          "_customCSS": ".mbr-figure {padding-top:70px;}"
+          "_customCSS": ".mbr-figure {padding-top:150px;}"
         }
       ]
     }
