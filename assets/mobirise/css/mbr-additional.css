@@ -989,6 +989,7 @@ h6,
 
 
 
+
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1126,10 +1127,22 @@ h6,
 }
 #content6-2w H2 {
   font-size: 24px;
+  font-family: 'Lato', sans-serif;
+}
+#content6-2w P {
+  font-size: 17px;
 }
 #content6-2w .container {
   padding-left: 5%;
   padding-right: 5%;
+}
+#content6-2w .lead h2 {
+  letter-spacing: 0px;
+  line-height: 1;
+}
+#content6-2w .lead p {
+  letter-spacing: 0px;
+  line-height: 1.75;
 }
 #features3-2x H4 {
   color: #0e374e;
@@ -1316,6 +1329,8 @@ h6,
 
 
 
+
+
 #ext_menu-1l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1469,30 +1484,32 @@ h6,
   padding-left: 10%;
   padding-right: 10%;
 }
-#header3-7i .mbr-section-title,
-#header3-7i .mbr-section-subtitle {
-  text-align: center;
+#msg-box3-81 .mbr-section-title,
+#msg-box3-81 p {
+  color: #000;
 }
-#header3-7i H3 {
+#msg-box3-81 .mbr-section-title {
+  color: #ffffff;
   font-size: 46px;
+}
+#msg-box3-81 .lead P {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
-#header3-7i SMALL {
+#msg-box3-81 .lead {
   color: #ffffff;
-  font-size: 16px;
+  font-family: 'Lato', sans-serif;
 }
-#features3-7h H4 {
-  color: #ffffff;
+#gallery4-82 .mbr-gallery-row {
+  margin-left: 10%;
+  margin-right: 10%;
 }
-#features3-7h P {
-  color: #ffffff;
+#gallery4-82 .mbr-gallery-filter li {
+  background-color: white;
+  border-color: #1ac2c6;
 }
-#features3-7h .mbr-cards-row {
-  padding-left: 15%;
-  padding-right: 15%;
-}
-#features3-7h .card {
-  border: #fff solid 8px;
+#gallery4-82 .mbr-gallery-filter li.active {
+  color: #1ac2c6;
 }
 #msg-box3-6m .mbr-section-title,
 #msg-box3-6m p {
@@ -1985,4 +2002,107 @@ h6,
 }
 #extForm1-7s .mbr-figure {
   padding-top: 150px;
+}
+
+#ext_menu-7t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-7t .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-7t .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-7t .close-icon::before,
+#ext_menu-7t .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-7t .link,
+#ext_menu-7t .dropdown-item {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-7t .link {
+  font-size: 0.8rem;
+}
+#ext_menu-7t .dropdown-item,
+#ext_menu-7t .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-7t .link:hover,
+#ext_menu-7t .dropdown-item:hover,
+#ext_menu-7t .link:focus,
+#ext_menu-7t .dropdown-item:focus {
+  color: #31b7bc;
+}
+#ext_menu-7t .link[aria-expanded="true"],
+#ext_menu-7t .dropdown-menu {
+  background: #269094;
+}
+#ext_menu-7t .nav-dropdown-sm .link:focus,
+#ext_menu-7t .nav-dropdown-sm .link:hover,
+#ext_menu-7t .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-7t .nav-dropdown-sm .dropdown-item:hover {
+  background: #2eabb0!important;
+}
+#ext_menu-7t .navbar,
+#ext_menu-7t .nav-dropdown-sm,
+#ext_menu-7t .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-7t .nav-dropdown-sm .dropdown-menu {
+  background: #31b7bc;
+}
+#ext_menu-7t .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-7t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-7t .bg-color.transparent.opened .link:hover,
+#ext_menu-7t .bg-color.transparent.opened .link:focus {
+  color: #31b7bc;
+}
+#ext_menu-7t .link[aria-expanded="true"],
+#ext_menu-7t .dropdown-item[aria-expanded="true"] {
+  color: #31b7bc!important;
+}
+#ext_menu-7t .navbar-dropdown .navbar-logo img {
+  height: 4rem;
+}
+#ext_menu-7t .navbar-dropdown.navbar-short .navbar-brand {
+  padding: 0.1rem 0;
+}
+#ext_menu-7t .navbar-dropdown {
+  -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+}
+#ext_menu-7t .navbar-dropdown.navbar-short {
+  -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+}
+#ext_menu-7t .navbar-dropdown.navbar-short .navbar-brand img {
+  height: 2.5rem;
+}
+#ext_menu-7t .nav-item a:hover {
+  color: #0e374e;
+}
+#footer1-7u P {
+  color: #ffffff;
+}
+#footer1-7u B {
+  color: #ffffff;
+}
+#header3-7v .mbr-section-title,
+#header3-7v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7v H3 {
+  color: #0e374e;
+  font-size: 46px;
+}
+#header3-7v SMALL {
+  color: #0e374e;
+  font-size: 20px;
 }

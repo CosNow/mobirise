@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Impressum.html",
+    "currentPage": "treffpunkt.html",
     "name": "CosNow_Aktuell",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 281,
+    "uniqCompNum": 291,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -35,7 +35,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Start - CosNow",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -134,7 +134,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
         },
         {
           "_tags": [
@@ -462,7 +462,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Aus der Subkultur Cosplay wurde um die Jahrtausendwende ein weltweites Massenphänomen, dass heute in nahezu allen Ländern vertreten ist. In Europa haben neben Deutschland, insbesondere Frankreich, Italien und Großbritannien eine starke Cosplay-Szene mit großen Conventions. Weltweit sind noch die USA und Ostasien als Hochburgen für Cosplay zu nennen. Über den Ursprung der Cosplay-Szene sind sich die Experten nicht ganz einig. Betrachtet man verschiedene historische Aufzeichnungen und vergleicht die Quellen so gibt es unterschiedliche Meinungen die sich teils gegenseitig widersprechen. In der folgenden Timeline möchten wir mehrere Theorien erläutern und vergleichen um die Historie ganzheitlich darzustellen. Unsere nachfolgenden Aussagen stützen sich hierbei stets auf mehrere Quellen und historisch belegbare Beispiele. [1]</p>"
+          "text": "<p>Aus der Subkultur Cosplay wurde um die Jahrtausendwende ein weltweites Massenphänomen, dass heute in nahezu allen Ländern vertreten ist. In Europa haben neben Deutschland, insbesondere Frankreich, Italien und Großbritannien eine starke Cosplay-Szene mit großen Conventions. Weltweit sind noch die USA und Ostasien als Hochburgen für Cosplay zu nennen. Über den Ursprung der Cosplay-Szene sind sich die Experten nicht ganz einig. Betrachtet man verschiedene historische Aufzeichnungen und vergleicht die Quellen so gibt es unterschiedliche Meinungen die sich teils gegenseitig widersprechen. In der folgenden Timeline möchten wir mehrere Theorien erläutern und vergleichen um die Historie ganzheitlich darzustellen. Unsere nachfolgenden Aussagen stützen sich hierbei stets auf mehrere Quellen und historisch belegbare Beispiele.&nbsp;</p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -980,7 +980,7 @@
     },
     "cosplay.html": {
       "settings": {
-        "title": "",
+        "title": "Cosplay - CosNow",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1079,7 +1079,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
         },
         {
           "_tags": [
@@ -1185,7 +1185,7 @@
             }
           },
           "title": "Was ist Cosplay?",
-          "text": "<p>Das Verkleiden als ein bestimmter Charakter anhand einer konkreten Vorlage bezeichnet man als Cosplay. Im Gegensatz zum Fasching oder Karneval wird Cosplay als ganzjähriges Hobby betrieben. Der Begriff kommt aus dem Englischen und ist eine Kurzform von Costume Play, also Kostümspiel. Ziel ist es den Lieblings-Charakter so genau wie möglich darzustellen. Einerseits Äußerlich in Form eines exaxten Kostüms anhand der Vorlage, andererseits in Form einer Charakter spezifischen Darstellung. Hierfür schlüpfen viele Cosplayer in die Rolle des dargestellten Charakters und geben die grundlegenden Wesenszüge in einer Art Schauspiel wieder. Diese charakterliche Darstellung findet in der Regel bei Fotoshootings oder Bühnenauftritten wie Wettbewerben statt&nbsp;<b>[1,2]</b></p>",
+          "text": "<p>Das Verkleiden als ein bestimmter Charakter anhand einer konkreten Vorlage bezeichnet man als Cosplay. Im Gegensatz zum Fasching oder Karneval wird Cosplay als ganzjähriges Hobby betrieben. Der Begriff kommt aus dem Englischen und ist eine Kurzform von Costume Play, also Kostümspiel. Ziel ist es den Lieblings-Charakter so genau wie möglich darzustellen. Einerseits Äußerlich in Form eines exaxten Kostüms anhand der Vorlage, andererseits in Form einer Charakter spezifischen Darstellung. Hierfür schlüpfen viele Cosplayer in die Rolle des dargestellten Charakters und geben die grundlegenden Wesenszüge in einer Art Schauspiel wieder. Diese charakterliche Darstellung findet in der Regel bei Fotoshootings oder Bühnenauftritten wie Wettbewerben statt .</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1287,17 +1287,22 @@
           "_name": "content6",
           "_styles": {
             "H2": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "P": {
+              "font-size": "17px"
             }
           },
-          "_customCSS": ".container {\n    padding-left: 5%;\n    padding-right: 5%;}\n",
+          "_customCSS": ".container {\n    padding-left: 5%;\n    padding-right: 5%;}\n\n.lead h2 {letter-spacing: 0px; line-height: 1;}\n.lead p {letter-spacing: 0px; line-height: 1.75;}",
           "_anchor": "content6-2w",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text1": "<h2><span style=\"color: inherit; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Cosplay ist nicht mehr auf Sci-Fi oder Anime beschränkt, sondern\nhat sich mittlerweile in diversen Kategorien verzweig. Die\ndargestellten Charaktere können fiktiven oder realen Figuren\nund Personen entspringen. Beispielsweise aus japanischen\nComics (= Mangas) oder japanischen Zeichentrickfilmen (=\nAnime). Aber auch westliche Comics, Computerspiele, Filme\noder Serien können als Vorlage für ein Cosplay dienen. Darüber\nhinaus ist Cosplay nicht auf die Darstellung von menschlichen\nWesen beschränkt, es können auch Tiere, Fabelwesen oder sogar\nGegenstände dargestellt werden. Auch die Darstellung von\neigenen Charakteren des sogenannten OC´s (= Own Creations)\nist in der Cosplay Szene verbreitet.&nbsp;</span><span style=\"color: inherit; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Dies können fiktive Personen, Phantasiefiguren (Elfen, Feen, Dämonen, usw.), Tiere, mythologische Figuren oder auch abstrakte Begriffe (z.B. Elemente: Luft, Wasser; Feuer, usw.). sein.&nbsp;</span></h2>",
+          "text1": "<h2><span style=\"color: inherit; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Cosplay ist nicht mehr auf Sci-Fi oder Anime beschränkt, sondern\nhat sich mittlerweile in diversen Kategorien verzweig. Die\ndargestellten Charaktere können fiktiven oder realen Figuren\nund Personen entspringen. Beispielsweise aus japanischen\nComics &nbsp;Mangas) oder japanischen Zeichentrickfilmen (=Anime). Aber auch westliche Comics, Computerspiele, Filme\noder Serien können als Vorlage für ein Cosplay dienen. Darüber\nhinaus ist Cosplay nicht auf die Darstellung von menschlichen\nWesen beschränkt, es können auch Tiere, Fabelwesen oder sogar\nGegenstände dargestellt werden. Auch die Darstellung von\neigenen Charakteren des sogenannten OC´s ( Own Creations)\nist in der Cosplay Szene verbreitet.&nbsp;</span><span style=\"color: inherit; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Dies können fiktive Personen, Phantasiefiguren (Elfen, Feen, Dämonen, usw.), Tiere, mythologische Figuren oder auch abstrakte Begriffe (z.B. Elemente: Luft, Wasser; Feuer, usw.). sein.&nbsp;</span></h2>",
           "text2": "<p>Beim Cosplay können auch Artworks\nvon Künstlern umgesetzt werden. Hierbei sind der Fantasy keine\nGrenzen gesetzt, von Mesh-Ups (= Mischformen zwischen\nzwei Charakteren) bishin zu Genderbends (= Originalcharakter\nim anderen Geschlecht) ist alles erlaubt.\nIn Abgrenzung zum Cosplay wird auch die Darstellung historischer\nKleidung sowie davon abgeleiterter Phantasiekleidung\n(z.B. viktorianische Kleidung, Biedermeierkleidung, Steam-Punk)\ndem Cosplay im engeren Sinne zugeordnet. Gleiches gilt für\ntraditionelle Japanische bzw. asiatische Kleidung (z.B. Kimonos)\nsowie moderne Kleidungsstile wie Lolita, Gyaru, japanische\nSchuluniformen. Diese werden von Außenstehenden oftmals\nmit Cosplay assoziiert, bezeichnen jedoch eher einen Kleidungsstil\nals Cosplay im engeren Sinne.</p>"
         },
         {
@@ -1496,7 +1501,7 @@
             }
           },
           "title": "Cosplay in Deutschland",
-          "text": "<p>In Deutschland verbreitete sich Cosplay zeitgleich mit dem\nwachsenden kommerziellen Erfolg japanischer Anime Serien\nwie ‘Sailor Moon’ (im dt. Fernsehen ab 1996) und ‘Dragon Ball‘\n(im dt. Fernsehen ab 2001). Die ersten Anime/Manga-Conventions\nfanden im Jahre 1999 regelmäßig statt und ermöglichten\nCosplayern einen Zugang in die Öffentlichkeit. Das Aufkommen\nvon fanspezifischen Printmedien (wie z. B. das Magazin ‘AnimaniA’),\ndie steigende Popularität von Manga´s und Anime´s im\nAllgemeinen sowie die immer dichtere Vernetzung durch das\nInternet trugen zur Bildung der Szene wesentlich bei. <b>[4]</b></p>",
+          "text": "<p>In Deutschland verbreitete sich Cosplay zeitgleich mit dem\nwachsenden kommerziellen Erfolg japanischer Anime Serien\nwie ‘Sailor Moon’ (im dt. Fernsehen ab 1996) und ‘Dragon Ball‘\n(im dt. Fernsehen ab 2001). Die ersten Anime/Manga-Conventions\nfanden im Jahre 1999 regelmäßig statt und ermöglichten\nCosplayern einen Zugang in die Öffentlichkeit. Das Aufkommen\nvon fanspezifischen Printmedien (wie z. B. das Magazin ‘AnimaniA’),\ndie steigende Popularität von Manga´s und Anime´s im\nAllgemeinen sowie die immer dichtere Vernetzung durch das\nInternet trugen zur Bildung der Szene wesentlich bei.&nbsp;</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1581,7 +1586,7 @@
           },
           "title1": "Altersstruktur",
           "subtitle1": "",
-          "caption1": "Altersstruktur An unserer Umfrage haben Personen im Alter von 14-55 Jahren teilgenommen. Der Großteil aller Teilnehmer entspricht der Altersgruppe von 18-24 Jahren. Ab einem Alter von 25 Jahren nehmen die Zahlen stetig ab. Dies begründen wir uns mit dem enormen Zeitaufwand der mit dem Hobby einhergeht. Da unsere Berufsstatistik aufgezeigt hat, dass ein großer Teil der Community aus Schülern/Studierenden besteht, deckt sich dies mit der zugrundeliegenden Altersstruktur. Durch Schul- und Semesterferien bleibt genügend freie Zeit zur Verfügung um dem Hobby intensiver nachzugehen als es bei älteren Personengruppen mit eigenen Familien und Fulltime-Job der Fall wäre.",
+          "caption1": "Altersstruktur An unserer Umfrage haben Personen im Alter von 14-55 Jahren teilgenommen. Der Großteil aller Teilnehmer entspricht der <b>Altersgruppe von 18-24 Jahren</b>. Ab einem Alter von 25 Jahren nehmen die Zahlen stetig ab. Dies begründen wir uns mit dem enormen Zeitaufwand der mit dem Hobby einhergeht. Da unsere Berufsstatistik aufgezeigt hat, dass ein großer Teil der Community aus Schülern/Studierenden besteht, deckt sich dies mit der zugrundeliegenden Altersstruktur. Durch Schul- und Semesterferien bleibt genügend freie Zeit zur Verfügung um dem Hobby intensiver nachzugehen als es bei älteren Personengruppen mit eigenen Familien und Fulltime-Job der Fall wäre.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1597,7 +1602,7 @@
           },
           "title2": "Geschlechtsverteilung",
           "subtitle2": "",
-          "caption2": "Geschlechterverteilung Nach der Auswertung zeigte sich, dass die Geschlechterverteilung innerhalb der Szene recht eindeutig ausfällt. Die Szene teilt sich in einen Frauenanteil von 89%. Gerade einmal 11% aller Befragten waren hierbei Männer. Diese Werte decken sich mit unseren Beobachtungen auf Messen und Conventions sowie der Betrachtung der Szene im Internet. Grund hierfür ist vermutlich das gängige Klischee vom „Cosplay als Frauenhobby“. Unserer Erfahrung nach könnte das gängige Vorteil, dass Cosplay selbstgenähte Kostüme vorraussetzt ein Grund für die Abschreckung bei Männern sein. hinzu kommt das viele Männer sich von den oftmals als Stereotypen dargestellten Charakteren eingeschränkt fühlen. Hierbei gibt es oftmals den klassischen Muskelmann mit unbezwingbaren Kräften oder den kompletten.",
+          "caption2": "Geschlechterverteilung Nach der Auswertung zeigte sich, dass die Geschlechterverteilung innerhalb der Szene recht eindeutig ausfällt. Die Szene teilt sich in einen <b>Frauenanteil von 89%</b>. Gerade einmal 11% aller Befragten waren hierbei Männer. Diese Werte decken sich mit unseren Beobachtungen auf Messen und Conventions sowie der Betrachtung der Szene im Internet. Grund hierfür ist vermutlich das gängige Klischee vom „Cosplay als Frauenhobby“. Unserer Erfahrung nach könnte das gängige Vorteil, dass Cosplay selbstgenähte Kostüme vorraussetzt ein Grund für die Abschreckung bei Männern sein. Hinzu kommt das viele Männer sich von den oftmals als Stereotypen dargestellten Charakteren eingeschränkt fühlen. Hierbei gibt es oftmals den klassischen Muskelmann mit unbezwingbaren Kräften oder den kompletten Gegensatz.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1613,7 +1618,7 @@
           },
           "title3": "Berufsstatistik",
           "subtitle3": "",
-          "caption3": "Berufsgruppe Laut unserer Auswertung ist der Großteil aller Cosplayer mit 48% Berufstätig. Hierbei stammen die Personen aus den unterschiedlichsten Einkommens- und Sozialschichten. Von Anwälten, über Mediengestalter bis hin zu pädagogischen Fachkräften war in unserer Umfrage alles vertreten. Jedoch konnten wir vermehrt feststellen das gerade Menschen aus der Kreativbranche und dem Sozialen Sektor das Hobby vermehrt ausüben. Gefolgt von der Gruppe der Berufstätigen findet das Hobby auch bei den Studierenden und Schülern einen großen Anklang. Unsere Umfrage zeigt das 26% aller Cosplayer studieren und sich 17% in einer schulischen Ausbildung befinden. Weitere 6% gehen einer betrieblichen Ausbildung nach.",
+          "caption3": "Berufsgruppe Laut unserer Auswertung ist der Großteil aller Cosplayer mit<b> 48% Berufstätig</b>. Hierbei stammen die Personen aus den unterschiedlichsten Einkommens- und Sozialschichten. Von Anwälten, über Mediengestalter bis hin zu pädagogischen Fachkräften war in unserer Umfrage alles vertreten. Jedoch konnten wir vermehrt feststellen das gerade Menschen aus der Kreativbranche und dem Sozialen Sektor das Hobby vermehrt ausüben. Gefolgt von der Gruppe der Berufstätigen findet das Hobby auch bei den Studierenden und Schülern einen großen Anklang. Unsere Umfrage zeigt das 26% aller Cosplayer<b> </b>studieren und sich 17% in einer schulischen Ausbildung befinden. Weitere 6% gehen einer betrieblichen Ausbildung nach.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -2231,7 +2236,7 @@
             "showButton": false
           },
           "title": "Do´s and Don´ts",
-          "text": "Folge CosNow auf Youtube und begleite uns auf die größten Conventions rund ums Thema Cosplay, Manga, Anime, Comic und Fantasy. Unten findest du unsere neusten Vlogs.",
+          "text": "Bei der Zusammenarbeit zwischen Cosplayern und Fotografen gibt es einige Richtlinien die bei einem harmonischen Ablauf helfen können. Die nachfolgenden Tipps geben hierbei eine erste Hilfestellung.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2377,7 +2382,7 @@
           },
           "feature_title5": "Die Nachbearbeitung&nbsp;",
           "feature_subtitle5": "",
-          "feature_text5": "<p>Für Cosplayer gilt zudem die Regel von ihnen geschossene Fotos nicht ungefragt nachzubearbeiten wie z.B. mit etwaigen Instagram-Filtern oder Ähnlichem. Der Fotograf hat viel Zeit und Mühe in das Set und die zusätzliche Bildretusche inv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estiert und sieht es entsprechend nicht gerne wenn seine Arbeit nachträglich ohne Absprache verändert wird.&nbsp;<br></p>"
+          "feature_text5": "<p>Für Cosplayer gilt zudem die Regel von ihnen geschossene Fotos nicht ungefragt nachzubearbeiten wie z.B. mit etwaigen Instagram-Filtern oder Ähnlichem. Der Fotograf hat viel Zeit und Mühe in das Set und die zusätzliche Bildretusche investiert und sieht es entsprechend nicht gerne wenn seine Arbeit nachträglich ohne Absprache verändert wird.&nbsp;<br></p>"
         },
         {
           "_name": "footer1",
@@ -2408,7 +2413,7 @@
     },
     "costume.html": {
       "settings": {
-        "title": "",
+        "title": "Costume - CosNow",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2507,7 +2512,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
         },
         {
           "_tags": [
@@ -2869,54 +2874,37 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "msg-box8",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#000"
             },
-            "H3": {
-              "font-size": "46px",
-              "color": "#ffffff"
-            },
-            "SMALL": {
+            ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "16px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7i",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#1ac2c6",
-            "showMeta": true
-          },
-          "title": "Hilfreiche Tutorials",
-          "meta": "Folge CosNow auf Youtube und entdecke unsere Videosammlung. Untenstehend sind unsere neusten Videos aus allen Kategorien aufgeführt. Hier findest du sowohl Interviews als auch Vlogs und wissenswertes Rund um das Thema Cosplay."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
+              "font-size": "46px"
             },
-            "P": {
-              "color": "#ffffff"
+            ".lead P": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
-          "_customCSS": ".mbr-cards-row {padding-left:15%; padding-right:15%;}\n.card {border: #fff solid 8px;}",
-          "_anchor": "features3-7h",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-81",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#1ac2c6",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2926,97 +2914,157 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/thumbnail-1-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://youtu.be/X_7jaO7iJDg",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
+          "title": "Hilfreiche Tutorials",
+          "text": "Folge CosNow auf Youtube und entdecke unsere Videosammlung. Untenstehend findest du eine Sammlung an verschiedenen Videotutorials rund um das Thema Cosplay aus allen Kategorien aufgeführt.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_customCSS": ".mbr-gallery-row {margin-left: 10%; margin-right:10%}\n.mbr-gallery-filter li {background-color: white; border-color:#1ac2c6}\n.mbr-gallery-filter li.active {color:#1ac2c6}",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Nähen",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=RBcNoAzVWm4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-23-46.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Perückenstyling",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/1tFAxdso6iI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-27-03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Crafting",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=YyzQXNHKzE4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-24-48.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Casting",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=JSSX-MDwrNU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-29-56.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nähen",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=rR56uqGDRfc",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-37-32.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Crafting",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=BEqEG6wCGvk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-31-17.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Casting",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/PBSZiv7JAgk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-28-19.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Perückenstyling",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=4EdDOE_qvXk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-35-23.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Make-Up",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=VUDg80Z9CXg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-41-25.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nähen",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=CvtV3pMFZTg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-42-56.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Make-Up",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=7C6WjDK6xmw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-49-17.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Crafting",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=_KAb3NBCIXw&t=3s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-08-18-19-51-06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "#1ac2c6",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
-          "title1": "Dokomi 2017",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/thumbnail-5-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://youtu.be/7Y329Gp-tfQ",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title2": "RolePlay Convention 2017",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/thumbnail-3-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://youtu.be/7Y329Gp-tfQ",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title3": "Leipziger Buchmesse 2017",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "_anchor": "gallery4-82",
+          "articleLayout": false,
+          "allItem": "Alle"
         },
         {
           "_inherit": "msg-box8",
@@ -3146,7 +3194,7 @@
           "subtitle": "",
           "feature_title1": "Beruf/ Taschengeld",
           "feature_subtitle1": "",
-          "feature_text1": "Für den Fotografen sollte es selbstverständlich sein, dass das Modell vor dem Fotografieren um Erlaubnis zu fragen. Ohne eine explizite Einwilligung können Fotografen nichts mit den Bildern anstellen. Von daher sollte vorab oder spätestens im Anschluss an das Shooting eine mündliche oder noch besser schriftliche Einwilligung eingeholt werden.&nbsp;",
+          "feature_text1": "In unserer Umfrage wollten wir ebenso erfahren, wie die Befragten&nbsp;ihr Hobby finanzieren. Der Großteil der Teilnehmer&nbsp;mit rund 88% finanziert die Kostüme mit dem Gehalt, das&nbsp;aus dem ausgeübten Beruf erfolgt. Dies verwundert nicht weiter,&nbsp;da bereits unsere Statistik zum ausgeübten Beruf zeigt, dass&nbsp;der Großteil aller Cosplayer berufstätig ist.&nbsp;",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3160,7 +3208,7 @@
           },
           "feature_title2": "Patreon/ Printshop",
           "feature_subtitle2": "",
-          "feature_text2": "Cosplayer kennen die von ihnen dargestellte Figur in der Regel sehr gut und bringen daher oftmals eigene Bildideen und Locationvorschläge mit die den Charakter ins rechte Licht rücken. Daher sollten Fotografen immer in Absprache mit ihrem Modell arbeiten und Vorschläge aufgreifen. Generell gilt das beide Parteien mit dem schlussendlichen Foto glücklich sein sollten.&nbsp;<br>",
+          "feature_text2": "Bekannte Cosplayer können ihre Kostüme unter anderem&nbsp;auch von Patreon oder einem eigenen Printshop finanzieren.&nbsp;Hier verkaufen sie Fotodrucke ihrer Kostüme oder bieten ihren<br>Fans exklusiven Content für einen monatlichen Zahlbetrag an.&nbsp;Die angebotenen Waren schwanken je nach Cosplayer, dies&nbsp;können exklusive Videotutorials, Schnittmuster, Unikate wie z.B. Polaroids, aber auch private Googlehangouts oder Gaming&nbsp;Sessions sein. Um hier nennenswerte Einnahmen zu erzielen,&nbsp;bedarf es aber einer relativ großen und treuen Fanbase.&nbsp;<br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3196,7 +3244,7 @@
           },
           "feature_title4": "Auftragsarbeiten",
           "feature_subtitle4": "",
-          "feature_text4": "Als Modell sollte man den Fotografierenden stets genügend Zeit für die Archivierung und Bearbeitung der Bilder geben. In der Regel fotografieren Sie nicht nur ein Modell sondern fertigen meist mehrere hundert Fotos innerhalb eines Messe-Wochenendes an. Zudem sollten Cosplayer stets bedenken das die meisten Fotografierenden unentgeltlich arbeiten und es auch für sie „nur ein Hobby“ ist.<br>",
+          "feature_text4": "Eine weitere Einnahmequelle für die Finanzierung von Kostümen&nbsp;sind die sog. Commisions also Auftragsarbeiten. Hierbei&nbsp;werden sowohl ganze Kostüme maßgeschneidert, aber auch&nbsp;einzelne Kostümteile wie z. B. Hörner, Waffen oder Perückenstylings&nbsp;angeboten. Diese werden oftmals im eigenen Onlineshop&nbsp;oder auf externen Portalen wie Etsy, DaWanda, oder&nbsp;Storenvy angeboten aber auch auf Fachmessen vertrieben. Zu&nbsp;dieser Gruppe zählen wir ebenfalls den Weiterverkauf von eigenen&nbsp;bereits getragenen Kostümen.&nbsp;<br>",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3210,7 +3258,7 @@
           },
           "feature_title5": "Youtube/ Sponsorings&nbsp;",
           "feature_subtitle5": "",
-          "feature_text5": "<p>Für Cosplayer gilt zudem die Regel von ihnen geschossene Fotos nicht ungefragt nachzubearbeiten wie z.B. mit etwaigen Instagram-Filtern oder Ähnlichem. Der Fotograf hat viel Zeit und Mühe in das Set und die zusätzliche Bildretusche inv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estiert und sieht es entsprechend nicht gerne wenn seine Arbeit nachträglich ohne Absprache verändert wird.&nbsp;<br></p>"
+          "feature_text5": "<p>Einige Cosplayer haben zusätzlich einen eigenen Youtube Kanal auf dem sie zusätzlichen Content anbieten und Werbeeinnahmen erzielen. Häufig gehen mit der Nutzung von Youtube&nbsp;und Co. auch Sponsorings durch Firmen einher. Dies können&nbsp;Perücken, Kostüme, Kontaktlinsen, Make-up oder Gaming-Zubehör&nbsp;sein. In der Regel fordern Firmen im Gegenzug Reviews&nbsp;(Produktrezension) in Form eines Videos, Blogeintrages, usw.<br></p>"
         },
         {
           "_name": "footer1",
@@ -3241,7 +3289,7 @@
     },
     "treffpunkt.html": {
       "settings": {
-        "title": "",
+        "title": "Treffpunkt - CosNow",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3340,7 +3388,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
         },
         {
           "_tags": [
@@ -3505,7 +3553,7 @@
           "subtitle": "Etwa seit Mitte der 90er-Jahre gibt es in Deutschland regionale private Anime- und Manga-Treffen. Die erste regionale Anime- Convention in Deutschland war der iHAT in Hamburg, der zum ersten Mal im Juni 1998 stattfand. Die erste deutschlandweite Anime-Convention war das vom „Sailor Moon Online Fanclub“ (SMOF) organisierte Neo Moon Projekt vom 19. bis 20. September 1998 in Zorneding bei München. ",
           "feature_title1": "Norden",
           "feature_subtitle1": "",
-          "feature_text1": "Im nord-deutschen Raum finden sich zumeist kleinere Fantreffen und Conventions wie die MCM-Comic-Con in Hannover und die NipponCon in Bremen oder die ChisaiiCon in Hamburg.&nbsp;",
+          "feature_text1": "Im nord-deutschen Raum finden sich zumeist kleinere Fantreffen und Conventions wie die <b>MCM-Comic-Con</b> in Hannover und die <b>NipponCon</b> in Bremen oder die ChisaiiCon in Hamburg.&nbsp;",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3519,7 +3567,7 @@
           },
           "feature_title2": "Westen",
           "feature_subtitle2": "",
-          "feature_text2": "Die Ballungszentren für die Cosplay Kultur befinden sich zumeist im Raum Nordrhein-Westfahlen. Hier gibt es nicht nur zahlreiche Conventions und Messen die Cosplayer anziehen sondern auch einige Kulturfeste. Alleine NRW bietet eine lange Liste an verschiedensten Veranstaltungen: Dokomi in Düsseldorf, RolePlay Convention und Gamescom in Köln, German Comic Con in Dortmund, FedCon in Bonn. ",
+          "feature_text2": "Die Ballungszentren für die Cosplay Kultur befinden sich zumeist im Raum Nordrhein-Westfahlen. Hier gibt es nicht nur zahlreiche Conventions und Messen die Cosplayer anziehen sondern auch einige Kulturfeste. Alleine NRW bietet eine lange Liste an verschiedensten Veranstaltungen: <b>Dokomi</b> in Düsseldorf, <b>RolePlay Convention</b> und <b>Gamescom</b> in Köln, German Comic Con in Dortmund, FedCon in Bonn. ",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3555,7 +3603,7 @@
           },
           "feature_title4": "Osten",
           "feature_subtitle4": "",
-          "feature_text4": "In Sachsen findet jährlich die größte Convention Deutschlands statt. Angegliedert an die Leipziger Buchmesse findet sich hier die Manga-Comic-Convention. Bei dieser Messe treffen nicht nur Cosplay und Mangabegeistere, sondern auch Literaturinteressierte aufeinander.",
+          "feature_text4": "In Sachsen findet jährlich die größte Convention Deutschlands statt. Angegliedert an die <b>Leipziger Buchmesse</b> findet sich hier die <b>Manga-Comic-Convention</b>. Bei dieser Messe treffen nicht nur Cosplay und Mangabegeistere, sondern auch Literaturinteressierte aufeinander.",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3569,7 +3617,7 @@
           },
           "feature_title5": "Süden",
           "feature_subtitle5": "",
-          "feature_text5": "Im Süden Deutschlands findet in Baden-Württemberg&nbsp;eine der beliebtesten Comic-Messen Deutschlands statt, die Comic Con Germany, zudem findet sich hier die&nbsp;AnimagiC in Mannheim. Im Nachbar-Bundesland Bayern findet ebenfalls ein Ableger der German Comic-Con in München. Zudem wird hier jährlich die Animuc veranstaltet.<br>"
+          "feature_text5": "Im Süden Deutschlands findet in Baden-Württemberg&nbsp;eine der beliebtesten Comic-Messen Deutschlands statt, die <b>Comic Con Germany</b>, zudem findet sich hier die&nbsp;<b>AnimagiC</b> in Mannheim. Im Nachbar-Bundesland Bayern findet ebenfalls ein Ableger der German Comic-Con in München. Zudem wird hier jährlich die Animuc veranstaltet.<br>"
         },
         {
           "_styles": {
@@ -3673,7 +3721,7 @@
             }
           },
           "title1": "Animagic / Bonn",
-          "subtitle1": "Zu den größten deutschsprachigen Conventions zählt unter\nanderem die erstmals im Sommer 1999 von der Zeitschrift\nAnimaniA veranstaltete AnimagiC in Bonn. Besucher werden auf der Convention japanische Musik Acts, verschiedene Workshops und Mangakas geboten.",
+          "subtitle1": "Zu den größten deutschsprachigen Conventions zählt unter\nanderem die <b>erstmals im Sommer 1999</b> von der Zeitschrift\nAnimaniA veranstaltete AnimagiC in Bonn. Besucher werden auf der Convention japanische Musik Acts, verschiedene Workshops und Mangakas geboten.",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -3689,7 +3737,7 @@
             }
           },
           "title2": "Connichi / Kassel",
-          "subtitle2": "Die seit 2002 stattfindende\nConnichi in Kassel wurde vom gemeinnützigen Verein Animexx\ne.V. organisiert und zählt jährlich 26.000 Besucher. Jedes Jahr werden hier die deutschen Teilehmer für den in Japan ausgetragenen World Cosplay Sumit Wettbewerb gesucht.",
+          "subtitle2": "Die seit 2002 stattfindende\nConnichi in Kassel wurde vom gemeinnützigen Verein Animexx\ne.V. organisiert und zählt jährlich <b>26.000 Besucher</b>. Jedes Jahr werden hier die deutschen Teilehmer für den in Japan ausgetragenen World Cosplay Sumit Wettbewerb gesucht.",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -3705,7 +3753,7 @@
             }
           },
           "title3": "Dokomi / Düsseldorf",
-          "subtitle3": "Auf der DoKomi in Düsseldorf treffen sich seit 2009 etwa 31.000 Besucher. Ein besonderes Highlight der Dokomi ist der am Samstagaben veranstaltete Cosplay Ball und die Japan Disco. Zusätzlich bietet der Nordpark neben dem Messegelänge viele Locations für Fotoshootings.",
+          "subtitle3": "Auf der DoKomi in Düsseldorf treffen sich seit 2009<b> etwa 31.000 Besucher</b>. Ein besonderes Highlight der Dokomi ist der am Samstagaben veranstaltete Cosplay Ball und die Japan Disco. Zusätzlich bietet der Nordpark neben dem Messegelänge viele Locations für Fotoshootings.",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -3721,7 +3769,7 @@
             }
           },
           "title4": "MMC / Leipzig",
-          "subtitle4": "Heute zählt auch die Manga Comic Convention die als\nTeil der Leipziger Buchmesse stattfindet, als eine der größten\nVeranstaltungen mit 105.000 Besuchern. Bei dieser Messe treffen nicht nur Cosplay und Mangabegeistere, sondern auch Literaturinteressierte aufeinander.",
+          "subtitle4": "Heute zählt auch die Manga Comic Convention die als\nTeil der Leipziger Buchmesse stattfindet, als eine der größten\nVeranstaltungen mit <b>105.000 Besuchern</b>. Bei dieser Messe treffen nicht nur Cosplay und Mangabegeistere, sondern auch Literaturinteressierte aufeinander.",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -3860,7 +3908,7 @@
           },
           "title1": "World Cosplay Summit",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "&nbsp;Der World Cosplay Summit wurde im Jahr 2003 vom japanischen\nFernsehsender TV Aichi ins Leben gerufen, um auch\nausserhalb Japans das Thema Cosplay zu fördern. Heute ist der WCS ist eine internationale Cosplay-Meisterschaft\nmit Teilnehmern aus 22 Ländern der Welt. Der Deutsche Voreinscheid findet jeder Jahr auf der Connichi in Kassel statt.",
+          "caption1": "&nbsp;Der World Cosplay Summit wurde im Jahr 2003 vom japanischen\nFernsehsender TV Aichi ins Leben gerufen, um auch\nausserhalb Japans das Thema Cosplay zu fördern. Heute ist der<b> WCS</b> ist eine<b> internationale Cosplay-Meisterschaft</b>\nmit Teilnehmern aus 22 Ländern der Welt. Der Deutsche Voreinscheid findet jeder Jahr auf der Connichi in Kassel statt.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -3876,7 +3924,7 @@
           },
           "title2": "Deutsche Cosplay Meisterschaft",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Die DCM versteht sich als Repräsentant und Ansprechpartner\nfür Cosplay in Deutschland. Seit 2002 hat Cosplay seinen\nfesten Platz auf der Frankfurter Buchmesse. 2007 initiierte die\ngrößte internationale Buchmesse gemeinsam mit Deutschlands\ngrößter Manga- und Animecommunity Animexx e. V.\nden ersten offiziellen, landesweiten Wettbewerb: die Deutsche\nCosplaymeisterschaft (DCM).",
+          "caption2": "Die DCM versteht sich als Repräsentant und Ansprechpartner\nfür Cosplay in Deutschland. Seit 2002 hat Cosplay seinen\nfesten Platz auf der Frankfurter Buchmesse. 2007 initiierte die\ngrößte internationale Buchmesse gemeinsam mit Deutschlands\ngrößter Manga- und Animecommunity Animexx e. V.\nden ersten offiziellen, landesweiten Wettbewerb: die <b>Deutsche\nCosplaymeisterschaft </b>(DCM).",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -3892,7 +3940,7 @@
           },
           "title3": "Blizzard Cosplay Contest",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Der deutsche Vorentscheid des Blizzard Cosplay Contest wird jedes Jahr auf der Gamescom in Köln ausgetragen. Der Gewinner des Cosplay-Wettbewerbs gewinnt eine Einladung zur BlizzCon &nbsp;in Anaheim, die im November stattfindet. Damit wird er automatisch qualifiziert, gegen andere Gewinner der weltweit stattfindenden Blizzard-Cosplay-Wettbewerbe im Kampf um den Titel des Global Grand Champion anzutreten!&nbsp;",
+          "caption3": "Der <b>deutsche Vorentscheid des Blizzard Cosplay</b> Contest wird jedes Jahr auf der <b>Gamescom</b> in Köln ausgetragen. Der Gewinner des Cosplay-Wettbewerbs gewinnt eine Einladung zur BlizzCon &nbsp;in Anaheim, die im November stattfindet. Damit wird er automatisch qualifiziert, gegen andere Gewinner der weltweit stattfindenden Blizzard-Cosplay-Wettbewerbe im Kampf um den Titel des Global Grand Champion anzutreten!&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -3908,7 +3956,7 @@
           },
           "title4": "Eurocosplay Championships",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Seit 2010 wird auf der DoKomi einer der europaweiten Vorentscheide für das EuroCosplay durchgeführt. Hinter dem Begriff verbirgt sich eine europäische Cosplaymeisterschaft, die jährlich abgehalten wird. <span style=\"font-size: 1rem; line-height: 1.5;\">Die Qualifikanten fliegen zu MCM Expo nach London um dort Deutschland vertreten. Neben ihnen treten auch über 20 weitere Länder an im Kampf um den Titel des EuroCosplay Wettbewerbes.&nbsp;</span><br>",
+          "caption4": "Seit 2010 wird auf der<b> DoKomi</b> einer der europaweiten <b>Vorentscheide für das EuroCosplay</b> durchgeführt. Hinter dem Begriff verbirgt sich eine europäische Cosplaymeisterschaft, die jährlich abgehalten wird. <span style=\"font-size: 1rem; line-height: 1.5;\">Die Qualifikanten fliegen zu MCM Expo nach London um dort Deutschland vertreten. Neben ihnen treten auch über 20 weitere Länder an im Kampf um den Titel des EuroCosplay Wettbewerbes.&nbsp;</span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -4331,7 +4379,7 @@
             "showButton": false
           },
           "title": "Do\b`s and Don`ts",
-          "text": "Auf Conventions und Messen solltest du als Besucher die folgenden Ratschläge beherzigen. Diese Tipps sorgen für ein harmonisches Miteinander und erleichtern dir den Umgang mit Cosplayern.",
+          "text": "Bei der Zusammenarbeit zwischen Cosplayern und Fotografen gibt es einige Richtlinien die bei einem harmonischen Ablauf helfen können. Die nachfolgenden Tipps geben hierbei eine erste Hilfestellung..",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4614,7 +4662,7 @@
     },
     "Impressum.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Impressum - CosNow",
         "meta_descr": "Website Builder Description"
       },
       "components": [
@@ -4710,7 +4758,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
         },
         {
           "_tags": [
@@ -4835,6 +4883,7 @@
             "Extension"
           ],
           "_name": "extForm1",
+          "_customCSS": ".mbr-figure {padding-top:150px;}",
           "_anchor": "extForm1-7s",
           "_params": {
             "paddingTop": 1,
@@ -4859,7 +4908,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -4932,8 +4981,165 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SENDEN</a>",
-          "_customCSS": ".mbr-figure {padding-top:150px;}"
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SENDEN</a>"
+        }
+      ]
+    },
+    "mediathek.html": {
+      "settings": {
+        "title": "Mediathek - CosNow",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#269094"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2eabb0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#31b7bc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#31b7bc!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": ".navbar-dropdown .navbar-logo img {height: 4rem;}\n.navbar-dropdown.navbar-short .navbar-brand {\n    padding: 0.1rem 0;\n    }\n\n.navbar-dropdown{\n     -webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);\n    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);\n    -moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);\n    }\n\n.navbar-dropdown.navbar-short {\n    -webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);\n    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);\n    -moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);\n    }\n.navbar-dropdown.navbar-short .navbar-brand img {height: 2.5rem;}\n\n.nav-item a:hover{\n     color:#0e374e;}",
+          "_anchor": "ext_menu-7t",
+          "_params": {
+            "bgColor": "#31b7bc",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-webseite.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">START</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Willkommen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-3n\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5r\">Geschichte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-l\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-6b\">Cosplay ist Vielfalt</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSPLAY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html\">Was ist Cosplay?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-5k\">Geschichte &amp; Herkunft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#content6-4d\">Cosplay Genres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1d\">Cosplay in Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-4p\">Daten &amp; Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-1g\">Faszination Cosplay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box4-3w\">Interviews</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-40\">Cosplay und Fotografie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#header3-7d\">Videothek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cosplay.html#msg-box3-6e\">Do´s and Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTUME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html\">Gekauft oder Selbstgemacht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box4-1q\">Auswahl eines neuen Charakters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-1x\">Wissenswertes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#header3-7i\">Hilfreiche Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"costume.html#msg-box3-6m\">Finanzierung</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box3-4f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREFFPUNKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html\">Daten und Fakten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#extFeatures1-5x\">Ballungszentren Deutschland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-43\">Die vier größten Conventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-4y\">Cosplay Wettbewerbe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#header3-3s\">Cosplay im Internet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-65\">Convention Vlogs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"treffpunkt.html#msg-box3-66\">Do´s &amp; Dont´s</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">MEDIATHEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Impressum.html\" aria-expanded=\"false\">IMPRESSUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">MEDIATHEK</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-7u",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#31b7bc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>© 2017 COSNOW ALL RIGHTS RESERVED</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#0e374e",
+              "font-size": "46px"
+            },
+            "SMALL": {
+              "color": "#0e374e",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7v",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Hier kommt noch Inhalt",
+          "meta": "Hier ist aktuell noch kein Inhalt verfügbar :D"
         }
       ]
     }
